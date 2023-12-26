@@ -27,8 +27,8 @@ Here are some of the technologies I work with:
 
 ## 📚 Blog & Talks
 - [JamStack and Serverless Databases](https://bejamas.io/discovery/serverless-database/)
-- [Product oriented development with Xata.io]([#](https://bejamas.io/discovery/serverless-database/xata/))
-- [PlanetScale: Relational Databases in the Serverless World]([#](https://bejamas.io/discovery/serverless-database/xata/))
+- [Product oriented development with Xata.io](https://bejamas.io/discovery/serverless-database/xata/)
+- [PlanetScale: Relational Databases in the Serverless World](https://bejamas.io/discovery/serverless-database/xata/)
 
 ## 🤝 Connect with Me
 Feel free to reach out for collaborations or just a chat:
