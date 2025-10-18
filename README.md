@@ -1,70 +1,91 @@
-# 👋 Welcome to My GitHub Profile  
- 
+# Aren Hovsepyan
+**Lead Software Architect | Cloud & AI Engineering | Full-Stack (Backend-Focused)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aren-hovsepyan-168684152/)  
-[![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:aren@aren.pro)  
-[![Website](https://img.shields.io/badge/Website-aren.pro-orange?style=flat&logo=google-chrome)](https://aren.pro)  
-
----
-
-## 🚀 About Me  
-
-I’m **Aren Hovsepyan**, a **Lead Software Architect & Full-Stack Developer** with 9+ years of experience building scalable platforms across startups and enterprises.  
-
-🔹 **Generative AI & Cloud Architect** — specialized in AI/ML integration, RAG/agentic workflows, and cloud-native architectures (AWS & Azure).  
-🔹 **Startup Leadership** — Co-founded **Finny** (acquired by Origin) and advised AI-first startups like **Sage**, **Expa**, and **GH05T**.  
-🔹 **Enterprise Engineering** — Delivered technical architecture and pre-sales solutions for global clients including **RudderStack**, **Nominal.io**, **Alpro (Danone)** and **Veezu**.  
-
-I thrive at the intersection of **AI innovation, cloud architecture, and team leadership** — bridging business and engineering to deliver impactful systems.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aren-hovsepyan-168684152/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aren@aren.pro)
+[![Website](https://img.shields.io/badge/aren.pro-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://aren.pro)
 
 ---
 
-## 🧩 Core Skills  
+## About
 
-- **AI/ML & GenAI**: LangChain / LangGraph, RAG Engineering, Semantic Search, LLM Integration  
-- **Architecture & Cloud**: System Design, Composable Architecture, AWS (AI + Practitioner Certified), Azure AI & Fundamentals  
-- **Full-Stack Engineering**:  
-  - **Frontend**: React, Next.js, TypeScript  
-  - **Backend**: Node.js (NestJS), Python (FastAPI, Flask)  
-  - **Databases**: PostgreSQL (pgvector), MongoDB, Redis  
-- **DevOps & Scaling**: Docker, Kubernetes, Airflow ETL, Cloud Cost Optimization  
+11+ years building scalable backend systems and cloud architectures. Co-founded Finny (acquired by Origin). Currently Engineering Manager at Bejamas, leading teams and delivering enterprise solutions for clients like Alpro (Danone), RudderStack, and Veezu.
+
+**What I do:** Design and build cloud-native systems that scale. Bridge backend engineering, AI integration, and team leadership to solve complex technical challenges.
 
 ---
 
-## 🏆 Highlights & Contributions  
+## Technical Expertise
 
-- ⚡ **Finny (Co-Founder & Chief Architect)** – Scaled a financial wellness platform to **60k+ users**; acquired by Origin.  
-- 🧠 **Sage (Head of Eng.)** – Built multilingual **AI assistants** and RAG-based career search with AWS Bedrock.  
-- 🤝 **Bejamas (Lead Eng. & Pre-Sales)** – Led a team of 10 engineers, driving enterprise solutions and securing 70% of new contracts.  
-- 🔍 **Expa (Consulting Eng.)** – Implemented LLM-based **web scraping & multilingual semantic search** for job discovery.  
-- ✍️ **GH05T (Consulting Eng.)** – Developed **gh05twriter.io**, leveraging Grok AI + LangChain for brand-voice AI content creation.  
+**Backend & Architecture**
+- Node.js (NestJS) • Python (FastAPI, Flask) • TypeScript
+- System Design • Microservices • RESTful & GraphQL APIs
+- PostgreSQL • MongoDB • Redis • TimescaleDB
 
----
+**Cloud & DevOps**
+- AWS (Lambda, Bedrock, DynamoDB, API Gateway) — Certified
+- Azure (AI Foundry, Functions, Cosmos DB) — Certified
+- Docker • Kubernetes • Serverless Framework • Airflow ETL
+- Infrastructure Optimization • FinOps
 
-## 📚 Blog & Talks  
+**AI & Machine Learning**
+- LangChain / LangGraph • RAG Systems • Semantic Search
+- AWS Bedrock • Azure AI Foundry • OpenAI • Anthropic
+- Vector Databases (pgvector, FAISS) • Prompt Engineering
+- LLM Observability (LangSmith, RAGAS)
 
-- [JamStack and Serverless Databases](https://bejamas.io/discovery/serverless-database/)  
-- [Product Oriented Development with Xata.io](https://bejamas.io/discovery/serverless-database/xata/)  
-- [PlanetScale: Relational Databases in the Serverless World](https://bejamas.io/discovery/serverless-database/xata/)  
-
----
-
-## 📜 Certifications  
-
-- ☁️ **AWS Cloud AI Practitioner** (2025–2028)  
-- ☁️ **AWS Cloud Practitioner** (2025)  
-- ☁️ **Azure AI Fundamentals** (2024)  
-- ☁️ **Azure Fundamentals** (2024)  
-- 🛠 **Sanity Certified Developer** (2024)  
+**Frontend**
+- React • Next.js • TypeScript
+- Real-time collaborative features • State management
+- Performance optimization • Modern UI/UX patterns
 
 ---
 
-## 🤝 Let’s Connect  
+## Key Projects & Impact
 
-💼 [LinkedIn](https://www.linkedin.com/in/aren-hovsepyan-168684152/)  
-📧 [aren@aren.pro](mailto:aren@aren.pro)  
-💻 [GitHub](https://github.com/Cartman720)  
+**Finny** — Co-Founder & Chief Architect  
+Built financial wellness platform serving 60K+ users (5K daily active). Scaled NestJS backend with MongoDB and TimescaleDB for real-time analytics. Developed Next.js frontend with intuitive financial tools that improved user engagement and retention. Acquired by Origin.
+
+**Veezu** — FinOps & Infrastructure Optimization  
+Led Azure infrastructure and DevOps optimization achieving $15K monthly cost reduction within first 3 weeks. Implemented resource right-sizing, optimized compute workloads, streamlined CI/CD pipelines, and established monitoring for ongoing cost management. Delivered system integrations and performance improvements for enterprise taxi platform.
+
+**Sage** — Head of Engineering  
+Built multilingual WhatsApp AI assistant using LangChain and AWS Bedrock. Implemented RAG-based employee benefits search with pgVector, enabling natural language queries across structured data.
+
+**Expa** — Consulting Engineer  
+Developed LLM-powered web scraping system extracting 20K+ job postings daily from 50+ healthcare institutions. Built Airflow ETL pipelines and multilingual semantic search using PostgreSQL with pgvector.
+
+**GH05T** — Consulting Engineer  
+Created gh05twriter.io using Grok AI and LangChain for automated content creation. Built brand voice profiles and sentiment analysis system with spaCy and RAG for social media analytics.
+
+**Bejamas** — Engineering Manager & Lead Pre-Sales Engineer  
+Manage 10+ engineers across multiple enterprise projects. Increased team billability from 60% to 80%+. Secured 70% of new contracts through technical audits and proposals for clients including Alpro (Danone) and RudderStack.
+
+**Nexuhm** — AI-Assisted ATS Platform  
+Built candidate screening platform using Azure AI Video Indexer for sentiment analysis and speech evaluation. Secured Microsoft for Startups credits. Multi-tenant architecture with MongoDB and Kubernetes.
 
 ---
 
-> _"We are what we repeatedly do. Excellence, then, is not an act, but a habit."_ – Aristotle  
+## Writing & Talks
+
+- [Jamstack and Serverless Databases](https://bejamas.io/discovery/serverless-database/)
+- [Product-Oriented Development with Xata.io](https://bejamas.io/discovery/serverless-database/xata/)
+- [PlanetScale: Relational Databases in Serverless](https://bejamas.io/discovery/serverless-database/planetscale/)
+
+---
+
+## Certifications
+
+**AWS** — Cloud AI Practitioner (2025) • Cloud Practitioner (2025)  
+**Azure** — AI Fundamentals (2024) • Fundamentals (2024)  
+**Sanity** — Certified Developer (2024)
+
+---
+
+## Open to
+
+- Backend/Cloud Architecture roles with AI integration
+- Technical leadership positions in high-growth startups
+- Consulting on scalable system design and AI adoption
+
+📧 **aren@aren.pro** | 💼 [LinkedIn](https://www.linkedin.com/in/aren-hovsepyan-168684152/)
