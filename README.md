@@ -13,6 +13,27 @@
 
 **What I do:** Design and build cloud-native systems that scale. Bridge backend engineering, AI integration, and team leadership to solve complex technical challenges.
 
+## 🎓 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/f3d4f5f5-ee05-4c22-87fe-5a66cd109490/public_url" target="_blank">
+   <img width="110" alt="image" src="https://github.com/user-attachments/assets/49e28e74-d4d0-4042-b671-e82453a2b1f0" alt="AWS Certified Cloud Practitioner" />
+  </a>
+
+  <a href="https://www.credly.com/badges/f3d4f5f5-ee05-4c22-87fe-5a66cd109490/public_url" target="_blank">
+    <img width="110" src="https://github.com/user-attachments/assets/e2ba68d5-bee7-4505-8d1e-e4042ae130f8" alt="AWS Certified AI Practitioner" />
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ArenHovsepyan-9231/B5C3F1A08173FDB3?sharingId=1F8A3F8E98194B44" target="_blank">
+    <img alt="image" src="https://github.com/user-attachments/assets/9775afd0-2ef1-412c-9e99-edb8b6761278"  alt="Microsoft Certified: Azure AI Fundamentals" width="110" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/users/arenhovsepyan-9231/credentials/5159c7a1a913257a" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+         alt="Microsoft Certified: Azure Fundamentals" width="110"/>
+  </a>
+</p>
+
 ---
 
 ## Technical Expertise
@@ -74,13 +95,7 @@ Built candidate screening platform using Azure AI Video Indexer for sentiment an
 
 ---
 
-## Certifications
 
-**AWS** — Cloud AI Practitioner (2025) • Cloud Practitioner (2025)  
-**Azure** — AI Fundamentals (2024) • Fundamentals (2024)  
-**Sanity** — Certified Developer (2024)
-
----
 
 ## Open to
 
