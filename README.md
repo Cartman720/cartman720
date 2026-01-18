@@ -9,9 +9,15 @@
 
 ## About
 
-11+ years building scalable backend systems and cloud architectures. Co-founded Finny (acquired by Origin). Currently Engineering Manager at Bejamas, leading teams and delivering enterprise solutions for clients like Alpro (Danone), RudderStack, and Veezu.
+I design and lead cloud-native and AI-powered systems for high-growth startups and enterprise teams, including organizations operating at S&P 500 scale, with a focus on scalability, cost efficiency, and real-world impact.
 
-**What I do:** Design and build cloud-native systems that scale. Bridge backend engineering, AI integration, and team leadership to solve complex technical challenges.
+**What I actually do**:
+
+- Build and lead engineering teams that ship products on time (yes, it's possible)
+- Architect cloud solutions that scale without breaking the bank, I've saved companies 40-60% on AWS costs through strategic FinOps
+- Design AI systems using LLMs that solve real problems, not just demo well
+- Bridge the gap between "what the business wants" and "what engineering can deliver"
+- Implement DevOps practices that reduce deployment time from days to minutes
 
 ## 🎓 Certifications
 
